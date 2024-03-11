@@ -13,15 +13,15 @@ This is my Web Development Assignment Project to create a website with an integr
 - Beautiful and intuitive UI design
 - MySQL implementation
 
-### Versions
-```
-XAMPP             8.0.30
-PHP               8.0.30   
-Apache            2.4.58
-MariaDB           10.4.32
-phpMyAdmin        5.2.1
-NodeJS            20.11.1    
-```
+### Tools used
+- Php
+- Composer
+- PhpMailer
+- Brevo
+- Tailwind CSS
+- Javascript
+- MySQL
+- XAMPP
 
 ### Contact
 [Discord](https://discord.com/users/582932383381192705)<br>
