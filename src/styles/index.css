@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-label {
+	@apply absolute left-[10px] top-[50%] -translate-y-[50%] z-10 bg-white text-gray-500 transition-all;
+}
+
+.input-focus-label {
+	@apply text-xs -translate-y-[33px] px-1;
+}
+
+.textarea-label {
+	@apply absolute left-[10px] top-[10px] bg-white text-gray-500 transition-all;
+}
+
+.textarea-focus-label {
+	@apply text-xs -translate-y-[22px] px-1;
+}
+	
+.input {
+	@apply p-[10px] rounded-lg border;
+}
+
+.primary-button {
+	@apply bg-orange-300 py-2 px-5 rounded-lg font-semibold hover:opacity-80 active:opacity-60 transition-opacity;
+}
+
+.secondary-button {
+	@apply bg-gray-300 py-2 px-5 rounded-lg font-semibold hover:opacity-80 active:opacity-60 transition-opacity;
+}
+
+.danger-button {
+	@apply bg-red-400 py-2 px-5 rounded-lg font-semibold hover:opacity-80 active:opacity-60 transition-opacity;
+}
+
+.show-password-button {
+	@apply absolute right-[10px] top-[50%] -translate-y-[50%] h-[16px] flex justify-center items-center text-gray-500 cursor-pointer hover:opacity-80 transition-opacity;
+}
+
+.alert-error {
+	@apply bg-[#ff4d4d] text-white;
+}
+
+.alert-warning {
+	@apply bg-[#ffff33] text-gray-800;
+}
+
+.alert-info {
+	@apply bg-blue-500 text-white;
+}
+
+.alert-success {
+	@apply bg-[#85e085] text-white;
+}
+
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 7px solid transparent;
+	border-right: 7px solid transparent;
+	border-top: 7px solid;
+}
