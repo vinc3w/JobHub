@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About JobHub
 
-![Dashboard][dashboard.png]
+![Main][main.png]
 
 **JobHub** is a modern web-based recruitment platform designed to help employers find and connect with skilled employees quickly and efficiently. The system provides a user-friendly interface where job seekers can showcase their skills, experience, and preferences, while employers can browse and filter through a rich database of potential candidates.
 
@@ -97,6 +97,7 @@ Follow the steps below to install the project.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [logo.png]: assets/logo.png
+[main.png]: assets/main-landscape.png
 
 [login.png]: assets/screenshots/login.png
 [dashboard.png]: assets/screenshots/dashboard.png
