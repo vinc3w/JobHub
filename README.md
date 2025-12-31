@@ -32,7 +32,7 @@
 - Organization of portfolios (Filter, Sort, Search, Pagination)
 - Admin System
 - Notification System
-- Intuitive UI design
+- Intuitive UI designs
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
